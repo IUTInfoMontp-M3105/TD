@@ -9,7 +9,7 @@
 * Le [sujet du TD](TD5.pdf) en format .pdf téléchargeable et imprimable.
 
 **Cliquez sur le lien ci-dessous pour faire votre fork privé du TD :**
-XXXX
+https://classroom.github.com/a/orIPSkmx
 
 ### Deadline : 29/11/20 23h00
 

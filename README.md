@@ -6,7 +6,7 @@
 * **Enseignants:** [Nassim Belmecheri](mailto:nassim.belmecheri@umontpellier.fr), [Nadjib Lazaar](mailto:nadjib.lazaar@umontpellier.fr), [Sophie Nabitz](mailto:sophie.nabitz@univ-avignon.fr)
 * Le [forum Piazza](https://piazza.com/class/kek1cuqz3ep7o) de ce cours pour poser vos questions
 * [Email](mailto:nadjib.lazaar@umontpellier.fr) pour une question d'ordre privée concernant le cours.
-* Le [sujet du TP](TD5.pdf) en format .pdf téléchargeable et imprimable.
+* Le [sujet du TD](TD5.pdf) en format .pdf téléchargeable et imprimable.
 
 **Cliquez sur le lien ci-dessous pour faire votre fork privé du TD :**
 XXXX
